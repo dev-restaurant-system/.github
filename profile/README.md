@@ -1,4 +1,4 @@
-# Welcome to the dev.restaurant Ecosystem 🍔🚀
+# Welcome to the dev.restaurant Ecosystem 🍔
 
 **dev.restaurant** is a comprehensive, production-ready microservice architecture designed to handle the end-to-end operations of a modern food delivery and restaurant management business. 
 
